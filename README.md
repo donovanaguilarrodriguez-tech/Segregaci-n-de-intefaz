@@ -1,0 +1,1 @@
+# Segregaci-n-de-intefaz
